@@ -1,0 +1,6 @@
+@supermark_api_net_HostAddress = http://localhost:5274
+
+GET {{supermark_api_net_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
